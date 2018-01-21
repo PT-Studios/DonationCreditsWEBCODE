@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561197965137986",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Snuggles",
+				"lastlogoff": 1516516885,
+				"profileurl": "http://steamcommunity.com/id/strokingkeys/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/db3aff247b0629f1543e1f838d8d9c0d93d8c268_full.jpg",
+				"personastate": 1,
+				"realname": "Old Toby",
+				"primaryclanid": "103582791441335991",
+				"timecreated": 1079655478,
+				"personastateflags": 0,
+				"gameserverip": "70.185.215.24:28015",
+				"gameserversteamid": "90113013236642822",
+				"gameid": "252490",
+				"loccountrycode": "US"
+			}
+		]
+		
+	}
+}
