@@ -29,7 +29,7 @@
 	$GLOBALS['cfg']['sandboxClientId'] = 'sandboxClientId';
 
 	#Paypal Live API Keys (Get yours on developer.paypal.com after registering and creating a REST API Application)
-	$GLOBALS['cfg']['liveAPIKey'] = 'liveAPIKey';
+	$GLOBALS['cfg']['liveAPIKey'] = 'not my real key';
 	$GLOBALS['cfg']['liveClientId'] = 'liveClientId';
 
 	#Steam API Key (Get your key here https://steamcommunity.com/dev/apikey)
