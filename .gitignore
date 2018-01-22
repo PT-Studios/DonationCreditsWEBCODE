@@ -1,4 +1,4 @@
-includes/app_config.php
+#includes/app_config.php
 
 error_log
 includes/paypal/error_log
