@@ -11,8 +11,6 @@
 		$reward = null;
 	}
 
-	$_SESSION['T2SteamUser'] = null;
-
 	//Init Config
 	$GLOBALS['cfg'] = array();
 
@@ -20,7 +18,7 @@
 	# Things you may want to change in a hurry
 	#
 
-	$GLOBALS['cfg']['site_url'] = 'http://my.website.com]';
+	$GLOBALS['cfg']['site_url'] = 'http://my.website.com';
 	$GLOBALS['cfg']['site_title'] = 'Donation Credits - Web Application';
 	$GLOBALS['cfg']['environment'] = 'sandbox'; //Please use 'sandbox' or 'live' for PayPal environment
 
