@@ -1,0 +1,10 @@
+includes/app_config.php
+
+error_log
+includes/paypal/error_log
+includes/mysql/error_log
+includes/mysql/config/error_log
+includes/mysql/classes/error_log
+
+cache/*
+

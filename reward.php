@@ -1,8 +1,5 @@
 <?php
 
-//Start Session
-session_start();
-
 //ini_set('display_errors', 1);
 
 //Inc System Files
